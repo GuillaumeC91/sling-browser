@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.apache.sling</groupId>
+  <artifactId>org.apache.sling.browser</artifactId>
+  <versioning>
+    <versions>
+      <version>0.5.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20150412182721</lastUpdated>
+  </versioning>
+</metadata>
